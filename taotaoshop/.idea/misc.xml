@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/taotao_common" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_portal" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_search" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/taotao_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_portal/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_search/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
